@@ -1,4 +1,4 @@
-# video-upload-service-aws #
+# video-upload-s3-aws-serice #
 
 Use Spring Boot, AWS, and Docker to perform video upload.
 
